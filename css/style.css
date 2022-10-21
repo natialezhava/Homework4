@@ -1,0 +1,46 @@
+.child-div1 {
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+}
+.child-div2 {
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.child-div3 {
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+}
+.main-div {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.main-div1 {
+    display: flex;
+    justify-content: center;
+}
+.second-div1 {
+    width: 300px;
+    height: 300px;
+    background-color: blueviolet;
+}
+.second-div2 {
+    width: 300px;
+    height: 300px;
+    background-color: brown;
+    margin-left: 50px;
+    margin-right: 50px
+}
+.second-div3 {
+    width: 300px;
+    height: 300px;
+    background-color: darkblue;
+}
+.section {
+    background-color: cadetblue;
+}
